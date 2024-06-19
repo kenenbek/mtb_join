@@ -1,3 +1,6 @@
+.DS_Store
+reaction_min_max_values.csv
+mnc_ensemble_0/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
